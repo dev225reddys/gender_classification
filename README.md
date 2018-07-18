@@ -1,4 +1,4 @@
-# gender_classification_challenge
+# gender_classification
 
 ##Overview
 
